@@ -56,6 +56,7 @@ body{
 #SuggestionBox{
     color:grey;
     width:100%;
+    resize: none;
 }
 #submit{
     margin-left: 7%;
