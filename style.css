@@ -18,7 +18,7 @@ body{
 #formContainer{
     display:flex;
     width: 45%;
-    background-color: rgb(61, 2, 155,0.7);
+    background-color: rgba(61, 2, 155, 0.479);
     margin: auto;
     border-radius: 5px;
 }
@@ -55,6 +55,7 @@ body{
 }
 #SuggestionBox{
     color:grey;
+    width:100%;
 }
 #submit{
     margin-left: 7%;
@@ -62,6 +63,9 @@ body{
     width:200%;
     background-color: green;
     color: white;
+    border: none;
+    border-radius: 50px;
+    margin-bottom: 3px;
 
 }
 #submit:hover{
