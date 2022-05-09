@@ -73,4 +73,8 @@ body{
     background-color: #78faae;
     color: black;
 }
-
+#warning{
+    text-align: center;
+    color: rgba(0, 0, 0, 0.488);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
